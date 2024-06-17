@@ -2,4 +2,4 @@
 
 #quick with mtQlbbm
 
-<a target="_blank" href="https://beef.co">CLicked</a>
+<a target="blank" href="https://kissme">CLicked</a>
